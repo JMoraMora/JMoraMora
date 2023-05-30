@@ -1,6 +1,6 @@
 <h1>Hola, &#128075; Bienvenido a mi perfil</h1>
 
-Te saluda Jaison, una persona muy entusiasta en el mundo de la informatica, muy activo, y en constante desarrollo tanto como personal, como profesional.
+Te saluda Jaison, una persona muy entusiasta en el mundo de la informatica y en constante desarrollo tanto como personal, como profesional.
 
 <h2>Habilidades</h2>
 
